@@ -2,7 +2,7 @@
 #### A web-based React app that allows users to find the best ice cream flavors and parlors around the Denver, CO area.
 
 ## Deployed App
-[Icecream Whateverly](http://icecream-whateverly.s3-website-us-west-2.amazonaws.com/)
+[iScream](http://icecream-whateverly.s3-website-us-west-2.amazonaws.com/)
 
 ## Installation Steps
 - Clone the repo: ```git clone https://github.com/ericweissman/icecream_whateverly.git```
